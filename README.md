@@ -17,7 +17,9 @@ Bu Deprem api'si kullanarak 4.0 veya üstü "IZMIR / EGE DENIZI" cevresinde olan
 
 # _API_
 **API Sahibi: [@orhanayd](https://github.com/orhanayd)**
+
 **API Linki: [API](https://api.orhanaydogdu.com.tr/deprem/kandilli/live)**
+
 **API Proje linki: [PROJE](https://github.com/orhanayd/kandilli-rasathanesi-api)**
 
 ## _**SForces & PGH Team mesajı:**_
