@@ -1,4 +1,4 @@
-# [DEPREM UYARI SISTEMI (DUS) V1](https://github.com/SForces/Deprem-Uyari-Sistemi/releases/tag/D.U.S_1)
+# [DEPREM UYARI SISTEMI (DUS) V1.1](https://github.com/SForces/Deprem-Uyari-Sistemi/releases/tag/D.U.S_1.1)
 Bu Deprem api'si kullanarak 4.0 veya üstü "IZMIR / EGE DENIZI" cevresinde olan depremleri kullaniciya bildiren bir uygulamadir.
 * Bu uygulama başlangıça sabitlenmelidir ve arka planda çalışır
 * Aktif bir internet bağlantısı gereklidir.
@@ -11,7 +11,7 @@ Bu Deprem api'si kullanarak 4.0 veya üstü "IZMIR / EGE DENIZI" cevresinde olan
 * Cihazınızı yeniden başlattığınızda otomatik olarak açılacaktır.
 ## Çalışma mantığı nedir?
 * Program arka planınızda çalışarak depremleri sürekli kontrol eder.
-* Eğer 4.0 veya üstü bir deprem tespit edilirse ekranınızda uygulama penceresi belirir ve uyarı mesajı alırsınız
+* Eğer 4.0 veya üstü bir deprem tespit edilirse ekranınızda uygulama penceresi belirir, korkunç bir alarm sesi ve uyarı mesajı alırsınız
 ## Hangi şehirler için kullanabilirim ?
 * Şu anda sadece IZMIR ve EGE DENIZI depremleri takip edilmektedir ilerleyen güncellemelerde config dosyası eklendiğinde dilediğiniz şehri izleyebileceksiniz.
 
